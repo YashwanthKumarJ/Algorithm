@@ -1,2 +1,2 @@
 # Algorithm
-Collections of different algorithm implementations
+Collection of different algorithm implementations
